@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"walletconnect.js","sourceRoot":"","sources":["../../../../../src/assets/svg/walletconnect.ts"],"names":[],"mappings":";;;;;;AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,KAAK,CAAA;;AAElB,MAAM,gBAAgB,qKAAG,MAAG,CAAA;;;;;;;;;;OAU5B,CAAA;AAEA,MAAM,0BAA0B,qKAAG,MAAG,CAAA;;;;;;;;;;;;CAY5C,CAAA;AAEM,MAAM,qBAAqB,qKAAG,MAAG,CAAA;;;;;;;CAOvC,CAAA","debugId":null}}]
+}

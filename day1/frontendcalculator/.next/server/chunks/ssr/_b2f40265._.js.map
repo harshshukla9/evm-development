@@ -1,0 +1,8 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 6, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 24, "column": 0}, "map": {"version":3,"sources":["file:///Users/harshshukla/30daysolidity/day1/frontendcalculator/app/components/Navbar.tsx"],"sourcesContent":["import { ConnectButton } from '@rainbow-me/rainbowkit'\nimport React from 'react'\n\nconst Navbar = () => {\n  return (\n    <div>\n        <ConnectButton/>\n    </div>\n  )\n}\n\nexport default Navbar"],"names":[],"mappings":";;;;AAAA;;;AAGA,MAAM,SAAS;IACb,qBACE,8OAAC;kBACG,cAAA,8OAAC,8JAAA,CAAA,gBAAa;;;;;;;;;;AAGtB;uCAEe","debugId":null}},
+    {"offset": {"line": 51, "column": 0}, "map": {"version":3,"sources":["file:///Users/harshshukla/30daysolidity/day1/frontendcalculator/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\nimport Navbar from \"./components/Navbar\";\n\nexport default function Home() {\n\n    const {isConnected} = use\n  return (\n    <div className=\"grid grid-rows-[20px_1fr_20px] items-center justify-items-center min-h-screen p-8 pb-20 gap-16 sm:p-20 font-[family-name:var(--font-geist-sans)]\">\n     <Navbar/>\n     \n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;AACA;;;AAEe,SAAS;IAEpB,MAAM,EAAC,WAAW,EAAC,GAAG;IACxB,qBACE,8OAAC;QAAI,WAAU;kBACd,cAAA,8OAAC,4HAAA,CAAA,UAAM;;;;;;;;;;AAIZ","debugId":null}}]
+}

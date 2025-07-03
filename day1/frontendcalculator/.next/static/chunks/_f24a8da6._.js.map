@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"sources":["file:///Users/harshshukla/30daysolidity/day1/frontendcalculator/wagmi.ts"],"sourcesContent":["import { getDefaultConfig } from \"@rainbow-me/rainbowkit\";\nimport { arbitrum, base, mainnet, optimism, polygon, sepolia, anvil } from \"wagmi/chains\";\n\nexport const config = getDefaultConfig({\n  appName: \"RainbowKit Demo\",\n  projectId: \"YOUR_PROJECT_ID\", // Keep or remove if unnecessary\n  chains: [\n    mainnet,\n    polygon,\n    optimism,\n    arbitrum,\n    base,\n    anvil, // ✅ Add localhost for Hardhat\n    ...(process.env.NEXT_PUBLIC_ENABLE_TESTNETS === \"true\" ? [sepolia] : []),\n  ],\n  ssr: true,\n});"],"names":[],"mappings":";;;AAaQ;AAbR;AACA;AAAA;AAAA;AAAA;AAAA;AAAA;AAAA;;;AAEO,MAAM,SAAS,CAAA,GAAA,iLAAA,CAAA,mBAAgB,AAAD,EAAE;IACrC,SAAS;IACT,WAAW;IACX,QAAQ;QACN,mKAAA,CAAA,UAAO;QACP,mKAAA,CAAA,UAAO;QACP,oKAAA,CAAA,WAAQ;QACR,oKAAA,CAAA,WAAQ;QACR,gKAAA,CAAA,OAAI;QACJ,iKAAA,CAAA,QAAK;WACD,gKAAA,CAAA,UAAO,CAAC,GAAG,CAAC,2BAA2B,KAAK,SAAS;YAAC,mKAAA,CAAA,UAAO;SAAC,GAAG,EAAE;KACxE;IACD,KAAK;AACP","debugId":null}}]
+}

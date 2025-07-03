@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"off.js","sourceRoot":"","sources":["../../../../../src/assets/svg/off.ts"],"names":[],"mappings":";;;;AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,KAAK,CAAA;;AAElB,MAAM,MAAM,qKAAG,MAAG,CAAA;;;;;;;OAOlB,CAAA","debugId":null}}]
+}
