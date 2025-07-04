@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"discord.js","sourceRoot":"","sources":["../../../../../src/assets/svg/discord.ts"],"names":[],"mappings":";;;;AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,KAAK,CAAA;;AAElB,MAAM,UAAU,gKAAG,MAAG,CAAA;;;;;;;;;;;;;;;;OAgBtB,CAAA","debugId":null}}]
+}

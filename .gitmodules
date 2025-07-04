@@ -1,0 +1,3 @@
+[submodule "day2/pollContract/lib/forge-std"]
+	path = day2/pollContract/lib/forge-std
+	url = https://github.com/foundry-rs/forge-std

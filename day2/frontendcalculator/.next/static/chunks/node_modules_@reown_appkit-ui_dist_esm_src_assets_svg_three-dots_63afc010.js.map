@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"three-dots.js","sourceRoot":"","sources":["../../../../../src/assets/svg/three-dots.ts"],"names":[],"mappings":";;;;AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,KAAK,CAAA;;AAElB,MAAM,YAAY,gKAAG,MAAG,CAAA;;;;OAIxB,CAAA","debugId":null}}]
+}

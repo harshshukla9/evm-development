@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 7, "column": 0}, "map": {"version":3,"file":"chevron-right.js","sourceRoot":"","sources":["../../../../../src/assets/svg/chevron-right.ts"],"names":[],"mappings":";;;;AAAA,OAAO,EAAE,GAAG,EAAE,MAAM,KAAK,CAAA;;AAElB,MAAM,eAAe,gKAAG,MAAG,CAAA;;;;;;;OAO3B,CAAA","debugId":null}}]
+}
